@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @latch235
-- 👀 I’m interested in emmbedded systems
-- 🌱 I’m currently learning C++ in emmbedded systems
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning C++ in embedded systems
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me via email at 2lachlanmarr@gmail.com
 
